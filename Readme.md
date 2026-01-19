@@ -1,3 +1,10 @@
+-=(IremM92_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Select the "Arcade-IremM92.qpf" in Quartus to synthesize it.
+
+___
 # Irem M92 Core
 
 ![](docs/header-small.png)
